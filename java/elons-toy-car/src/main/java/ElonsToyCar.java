@@ -24,6 +24,5 @@ public class ElonsToyCar {
       distance += 20;
       batteryLevel -= 1;
     }
-
   }
 }
